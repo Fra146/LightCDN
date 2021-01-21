@@ -1,0 +1,29 @@
+# LiteCDN Version 0.1 Config File
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Evitate using UTF 8 Characters or tab
+# If you have any issue contact me on github
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       Config                         | #
+# +------------------------------------------------------+ #
+############################################################
+
+# DON'T TOUCH
+version : 0.1
+
+# Path of the files directory
+# Use only the name of the dir, no / at the end
+files_path : files
+
+# Path of the server status page
+# this will bypass any route or file, if you create a file.txt and here you put file.txt the file will not be available
+# Maybe you can use /status or /
+# Use OFF to disable this
+status_path : /status
