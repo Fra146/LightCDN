@@ -1,4 +1,5 @@
-If you want to support me, use the bitcoin link here
+If you want to support me, please use this bitcoin address <3
+`bc1qgrg0afnx7va6em9cuw5u5qgwkg73ax7fnrnddp`
 
 # LightCDN
 This is LightCDN a lightweight CDN (Content Delivery System) made in Python with Flask and Flask-autoindex.
